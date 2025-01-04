@@ -18,38 +18,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Time Logger | Your Personal Productivity Tracker",
-  description:
-    "Time Logger helps you track your daily activities in real time. Reflect on your day, uncover patterns, and improve your habits. Private, secure, and free to use.",
+  title: "TEMPLATE",
+  description: "TEMPLATE",
   openGraph: {
-    title: "Time Logger | Your Personal Productivity Tracker",
+    title: "TEMPLATE",
     images: "/ss.png",
-    description:
-      'Time Logger is your "to-did" app for tracking daily activities. Log what you do, reflect on your journey, and grow. No signups, no downloads—just your real-time journal for better time management.',
-    url: "https://timelogger.arpancodes.io/",
-    siteName: "Time Logger",
+    description: "TEMPLATE",
+    url: "https://TEMPLATE.arpancodes.io/",
+    siteName: "TEMPLATE",
   },
-  keywords: [
-    "Time Logger",
-    "productivity tracker",
-    "real-time journal",
-    "activity tracker",
-    "habit tracker",
-    "personal improvement",
-    "self-improvement tool",
-    "daily activity log",
-    "time management app",
-    "no signup app",
-    "secure journal",
-    "free productivity app",
-    "PWA time tracker",
-  ],
+  keywords: [],
   twitter: {
     card: "summary_large_image",
     site: "@arpancodes",
-    title: "Time Logger | Your Personal Productivity Tracker",
-    description:
-      "Log your achievements, reflect with AI-powered insights, and improve your habits. Time Logger is free, secure, and completely private. Start owning your day today!",
+    title: "TEMPLATE",
+    description: "TEMPLATE",
     images: "/ss.png",
   },
 };

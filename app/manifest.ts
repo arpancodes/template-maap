@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Time logger",
-    short_name: "Time Logger",
-    description: "Time logger PWA for android and iOS",
+    name: "TEMPLATE",
+    short_name: "TEMPLATE",
+    description: "TEMPLATE",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",
